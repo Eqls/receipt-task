@@ -1,4 +1,4 @@
-# receipt-task
+# Receipt-task
 A test task for a job application 
 
 # Instructions
